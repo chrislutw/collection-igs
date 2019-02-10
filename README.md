@@ -42,7 +42,7 @@
 
 ## 金流流程
 
-- ![1](https://upload.cc/i1/2019/01/26/7dkHys.jpg)
+- ![1](https://upload.cc/i1/2019/02/10/naS2sr.png)
 
 ## python using vue
 
