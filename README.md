@@ -39,3 +39,11 @@
 - ![1](https://upload.cc/i1/2019/02/10/pNanvP.png)
 - ![2](https://upload.cc/i1/2019/02/10/kfnStG.png)
 - ![3](https://upload.cc/i1/2019/02/10/DCQj1H.png)
+
+## 金流流程
+
+- ![1](https://upload.cc/i1/2019/01/26/7dkHys.jpg)
+
+## python using vue
+
+- ![1](https://upload.cc/i1/2019/01/27/sj4Rd9.png)
