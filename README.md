@@ -28,6 +28,12 @@
 
 ## 彩票大連線
 
+- ![1](https://upload.cc/i1/2019/02/12/LV56Xg.png)
+- ![2](https://upload.cc/i1/2019/02/12/Aw8vpi.png)
+- ![3](https://upload.cc/i1/2019/02/12/rctPBu.png)
+- ![4](https://upload.cc/i1/2019/02/12/RvAISb.png)
+- ![5](https://upload.cc/i1/2019/02/12/XyJREk.png)
+
 ## 海王寶藏
 
 - ![1](https://upload.cc/i1/2019/02/10/3xOn7y.png)
