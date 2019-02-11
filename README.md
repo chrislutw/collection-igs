@@ -50,6 +50,6 @@
 
 - ![1](https://upload.cc/i1/2019/02/10/naS2sr.png)
 
-## python using vue
+## 為團隊導入 Vue 的流程
 
-- ![1](https://upload.cc/i1/2019/01/27/sj4Rd9.png)
+- ![1](https://upload.cc/i1/2019/02/12/ZXnV9K.png)
